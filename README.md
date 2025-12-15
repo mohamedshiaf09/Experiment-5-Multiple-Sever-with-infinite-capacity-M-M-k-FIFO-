@@ -8,7 +8,7 @@ b)	Average number of materials in the conveyor
 
 c)	Waiting time of each material in the system 
 
-d)	Waiting time of each material in the conveyor
+d)	Waiting time of each material in the conveyor 
 
 If the arrival of materials follow poisson process with mean interval time 10 seconds, service time of two lather machine follow exponential distribution with mean sevice time 1 second and average service time of robot is 7 seconds.
 
